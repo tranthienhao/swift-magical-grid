@@ -1,0 +1,1 @@
+Simple magical grid learned from Brian Voong.
